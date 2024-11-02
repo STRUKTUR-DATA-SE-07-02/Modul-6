@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1730472242 source:d:\2311104053_marvel sanjaya setiawan\06_double_linked_list_bagian_1\unguided\main.cpp
+	"doublelist.h"
+	"doublelist.cpp"
+	<iostream>
+
+1730464791 d:\2311104053_marvel sanjaya setiawan\06_double_linked_list_bagian_1\unguided\doublelist.h
+	<string>
+
+1730472854 d:\2311104053_marvel sanjaya setiawan\06_double_linked_list_bagian_1\unguided\doublelist.cpp
+	"doublelist.h"
+	<iostream>
+
