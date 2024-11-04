@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730731848 source:d:\semester 3\praktikum struktur data\unguided2\main.cpp
+	"doublelist.h"
+	<iostream>
+
+1730731848 d:\semester 3\praktikum struktur data\unguided2\include\doublelist.h
+	<string>
+
+1730731848 source:d:\semester 3\praktikum struktur data\unguided2\src\doublelist.cpp
+	"doublelist.h"
+	<iostream>
+
