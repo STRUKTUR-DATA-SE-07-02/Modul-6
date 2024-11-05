@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730814656 source:c:\codeblocks\pertemuan ke 6\unguided\unguided 1\main.cpp
+
+1730814973 source:c:\codeblocks\pertemuan ke 6\unguided\unguided 1\src\doublelist.cpp
+	"doublelist.h"
+	<iostream>
+
+1730814883 c:\codeblocks\pertemuan ke 6\unguided\unguided 1\include\doublelist.h
+	<string>
+
