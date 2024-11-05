@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730816231 source:c:\users\user\pictures\std 6\unguided1\src\doublelist.cpp
+	"doublelist.h"
+	<iostream>
+
+1730816223 c:\users\user\pictures\std 6\unguided1\include\doublelist.h
+	<string>
+
