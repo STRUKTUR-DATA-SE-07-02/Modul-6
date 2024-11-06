@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730903227 source:c:\users\pongo\onedrive\dokumen\tugas semester 3\tugas prkatikum struktur data\tugas 5\tugas 6 (2)\doublelist.cpp
+	"doublelist.h"
+	<iostream>
+
+1730903227 c:\users\pongo\onedrive\dokumen\tugas semester 3\tugas prkatikum struktur data\tugas 5\tugas 6 (2)\doublelist.h
+	<string>
+
+1730903227 source:c:\users\pongo\onedrive\dokumen\tugas semester 3\tugas prkatikum struktur data\tugas 5\tugas 6 (2)\main.cpp
+	<iostream>
+	"doublelist.h"
+
