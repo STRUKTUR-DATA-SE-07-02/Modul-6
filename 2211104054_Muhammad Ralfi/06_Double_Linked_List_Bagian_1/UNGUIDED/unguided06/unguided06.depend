@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1730907010 source:d:\std_muhammad_ralfi_2211104054\06_double_linked_list_bagian_1\unguided\unguided06\doublelist.cpp
+	"doublelist.h"
+	<iostream>
+
+1730906954 d:\std_muhammad_ralfi_2211104054\06_double_linked_list_bagian_1\unguided\unguided06\doublelist.h
+	<string>
+
+1730907034 source:d:\std_muhammad_ralfi_2211104054\06_double_linked_list_bagian_1\unguided\unguided06\main.cpp
+	"doublelist.h"
+	<iostream>
+	"doublelist.h"
+	<iostream>
+	"doublelist.h"
+	<iostream>
+
